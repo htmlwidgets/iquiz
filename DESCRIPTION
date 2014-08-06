@@ -1,0 +1,9 @@
+Package: iquiz
+Type: Package
+Title: Interactive Quizzes in R Markdown
+Version: 1.0
+Date: 2014-07-21
+Author: Ramnath Vaidyanathan
+Maintainer: Ramnath Vaidyanathan <ramnath.vaidya@gmail.com>
+Description:  Interactive Quizzes in R Markdown
+License: MIT

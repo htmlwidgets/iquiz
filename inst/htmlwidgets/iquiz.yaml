@@ -1,0 +1,19 @@
+dependencies:
+  - name: jquery
+    version: 1.7.2
+    src: "quiz/js"
+    script: "jquery.js"
+  - name: mustache
+    version: 0.5.1
+    src: "quiz/js"
+    script: "mustache.min.js"
+  - name: bootstrap
+    version: 3.0.0
+    src: "bootstrap"
+    script: ["js/bootstrap.min.js", "js/bootbox.min.js"]
+    style: "css/bootstrap.css"
+  - name: jquery.quiz
+    version: 0.5.0
+    src: "quiz"
+    script: ["js/jquery.quiz.js", "js/quiz-app.js"]
+    style: "css/demo.css"
